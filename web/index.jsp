@@ -13,5 +13,11 @@
   <body>
   <h1>푸쉬</h1>
   <span>TEST TEST</span>
+
+  <script>
+    window.onload = function () {
+      
+    }
+  </script>
   </body>
 </html>
